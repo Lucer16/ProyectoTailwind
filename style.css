@@ -3,3 +3,11 @@
 body {
   font-family: 'Manrope', 'sans-serif';
 }
+
+.fondo-gris {
+    background-color: #f9f9f9; /* Un tono de gris muy claro */
+}
+
+.articulo {
+    background-color: #f2f2f2; /* Gris aún más claro para los artículos */
+}
