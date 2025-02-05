@@ -17,7 +17,7 @@
 
 - **Diseño Responsivo**: La página se adapta a diferentes tamaños de pantalla, desde móviles hasta escritorios.
 - **Interfaz Intuitiva**: Diseño limpio y fácil de usar para una experiencia de usuario agradable.
-- **Funcionalidad de Carrito**: Los usuarios pueden agregar, eliminar y ver los detalles de los productos en el carrito.
+- **Funcionalidad de Carrito**: A incorporar un script los usuarios pueden agregar, eliminar y ver los detalles de los productos en el carrito.
 - **Animaciones y Transiciones**: Uso de animaciones sutiles para mejorar la experiencia del usuario.
 
 ## 🧑‍💻 Cómo Ejecutar el Proyecto
