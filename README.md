@@ -4,7 +4,7 @@
 
 ## 📸 Capturas de Pantalla
 
-![Captura de Pantalla 1]([Carrito de Compras.png](https://github.com/Lucer16/ProyectoTailwind/blob/main/Carrito%20de%20Compras.png))
+![Captura de Pantalla 1]([Carrito de Compras.png])
 
 ## 🛠️ Tecnologías Utilizadas
 
