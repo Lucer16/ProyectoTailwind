@@ -4,7 +4,7 @@
 
 ## 📸 Capturas de Pantalla
 
-![Captura de Pantalla 1](1ab23e7e-58bf-4a75-bae2-1753a6799ab2.png)
+![Captura de Pantalla 1](Carrito de Compras.png)
 
 ## 🛠️ Tecnologías Utilizadas
 
