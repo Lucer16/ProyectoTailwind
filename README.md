@@ -4,8 +4,7 @@
 
 ## 📸 Capturas de Pantalla
 
-![Captura de Pantalla 1](/ruta/a/tu/imagen1.png)
-![Captura de Pantalla 2](/ruta/a/tu/imagen2.png)
+![Captura de Pantalla 1](1ab23e7e-58bf-4a75-bae2-1753a6799ab2.png)
 
 ## 🛠️ Tecnologías Utilizadas
 
