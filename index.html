@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,8 +8,8 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="style.css">
 </head>
-<body class="bg-pink-50">
 
+<body class="fondo-rosa">
     <header class="bg-purple-800 text-white py-4">
         <div class="container mx-auto px-10 max-w-screen-lg flex justify-between items-center">
             <h1 class="text-2xl font-bold">Mi Tienda</h1>
@@ -20,12 +21,12 @@
         </div>
     </header>
 
-    <div class="container mx-auto p-10 max-w-screen-lg mt-8">
+    <main class="container mx-auto p-10 max-w-screen-lg mt-8">
         <h2 class="text-3xl font-bold mb-6 text-purple-800">Carrito de Compras</h2>
 
         <div class="bg-white rounded shadow p-8">
-            <div class="border w-full rounded mt-5 flex p-4 justify-between items-center flex-wrap">
-                <img src="audifonos.jpg" class="w-12" alt="Audífonos">
+            <article class="border w-full rounded mt-5 flex p-4 justify-between items-center flex-wrap">
+                <img src="audifonos.jpg" class="w-12" alt="Audífonos inalámbricos">
                 <div class="w-2/3">
                     <h3 class="text-lg font-medium text-purple-800">Audífonos Inalámbricos</h3>
                     <p class="text-purple-600 text-xs">Vendido por <b>Electrónica Express</b></p>
@@ -39,16 +40,17 @@
                     <button class="text-pink-500 hover:bg-pink-100 px-2">Eliminar</button>
                     <label class="block uppercase tracking-wide text-purple-700 text-xs" for="cantidad-1">
                         Cantidad
-                        <select class="ml-3 text-sm bg-purple-800 border border-purple-200 text-white p-2 rounded leading-tight" id="cantidad-1">
+                        <select class="ml-3 text-sm bg-purple-800 border border-purple-200 text-white p-2 rounded leading-tight"
+                            id="cantidad-1">
                             <option>1</option>
                             <option>2</option>
                         </select>
                     </label>
                 </div>
-            </div>
+            </article>
 
-            <div class="border w-full rounded mt-5 flex p-4 justify-between items-center flex-wrap">
-                <img src="laptop.jpg" class="w-12" alt="Laptop">
+            <article class="border w-full rounded mt-5 flex p-4 justify-between items-center flex-wrap">
+                <img src="laptop.jpg" class="w-12" alt="Laptop Ultrabook">
                 <div class="w-2/3">
                     <h3 class="text-lg font-medium text-purple-800">Laptop Ultrabook</h3>
                     <p class="text-purple-600 text-xs">Vendido por <b>Tecnología Avanzada</b></p>
@@ -62,13 +64,14 @@
                     <button class="text-pink-500 hover:bg-pink-100 px-2">Eliminar</button>
                     <label class="block uppercase tracking-wide text-purple-700 text-xs" for="cantidad-2">
                         Cantidad
-                        <select class="ml-3 text-sm bg-purple-800 border border-purple-200 text-white p-2 rounded leading-tight" id="cantidad-2">
+                        <select class="ml-3 text-sm bg-purple-800 border border-purple-200 text-white p-2 rounded leading-tight"
+                            id="cantidad-2">
                             <option>1</option>
                             <option>2</option>
                         </select>
                     </label>
                 </div>
-            </div>
+            </article>
 
         </div>
 
@@ -101,7 +104,8 @@
             </div>
         </div>
 
-    </div>
+    </main>
 
 </body>
+
 </html>
